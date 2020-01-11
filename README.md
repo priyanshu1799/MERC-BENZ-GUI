@@ -16,8 +16,9 @@ The main file to needed execute GUI is  **Test_GUI_1.m** . On executing this cod
   success.
 *	To find the upgrade model of the user>> click Upgrade Model button >> it compares the current user model with total models entered based on their engine efficiencies and returns top 3 models based on this comparison.
 *	It automatically provides all the offer details of the 1st model including the expecting time from current after which this offer can be made.
-*	Then automatically program refinance the new model and presents new financial details (new emi, interest, total amount ) with a down-payment of 20% . 
-*	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.      
+*	Then automatically program refinance the new model and presents new financial details (new emi, interest, total amount) with a minimum down-payment of 20% if this downpayment is not satisfied then UI will increase the downpaymenteach time by 1%. 
+*	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.  
+
 ### for standalone application
 
 * Execute the MyAppInstaller_web setup on any windows OS.
