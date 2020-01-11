@@ -10,10 +10,11 @@ The main file to needed execute GUI is “Test_GUI_1.m” . On executing this co
 5.	monthused.m >> this calculated the time difference in months between 2 different  dates.(basically calculating months for which the car has been used )
 6.	addComma >> it returns standard currency form of the number inputted as string.
 
-•	On executing the main file on MATLAB 2018a or higher versions will provide a User Interface which will require Car models DATA and User DATA (which contains User car details and his current financial contract) in .txt, .dat, or .csv for delimited text files  . xls, .xlsb, .xlsm, .xlsx, .xltm, .xltx, or .ods . If any error occurred during reading the data file UI will report it to the user with specified error.
-•	When the both data are successfully read by the program it turns the upload button symbol green from Black signifying the user of success.
-•	To find the upgrade model of the user>> click Upgrade Model button >> it compares the current user model with total models entered based on their engine efficiencies and returns top 3 models based on this comparison.
-•	It automatically provides all the offer details of the 1st model including the expecting time from current after which this offer can be made.
-•	Then automatically program refinance the new model and presents new financial details (new emi, interest, total amount ) with a down-payment of 20% . 
-•	Various other down-payment options are also provided to calculate emi for various down-payments.
-•	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.      
+*	On executing the main file on MATLAB 2018a or higher versions will provide a User Interface which will require Car models DATA and User     DATA (which contains User car details and his current financial contract) in .txt, .dat, or .csv for delimited text files  . xls, .xlsb,   .xlsm, .xlsx, .xltm, .xltx, or .ods . If any error occurred during reading the data file UI will report it to the user with specified       error.
+*	When the both data are successfully read by the program it turns the upload button symbol green from Black signifying the user of
+  success.
+*	To find the upgrade model of the user>> click Upgrade Model button >> it compares the current user model with total models entered based on their engine efficiencies and returns top 3 models based on this comparison.
+*	It automatically provides all the offer details of the 1st model including the expecting time from current after which this offer can be made.
+*	Then automatically program refinance the new model and presents new financial details (new emi, interest, total amount ) with a down-payment of 20% . 
+*	Various other down-payment options are also provided to calculate emi for various down-payments.
+*	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.      
