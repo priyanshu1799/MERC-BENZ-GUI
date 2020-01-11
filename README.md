@@ -3,9 +3,9 @@ This GUI is created in Mercedes Benz digital challenge-2019
 According to solution proposed from our side we have developed Graphical User Interface(GUI or UI) Using >>guide command in MATLAB 2018a(9.4). This UI so created can be compiled and converted into an Standalone application file which can run on any system with or without  MATLAB pre-installed on it.
 The main file to needed execute GUI is “Test_GUI_1.m” . On executing this code it calls various other functions already created in other matlab files within the same directory(**MR-BENZ-GUI/**) :
 ## INSTRUCTIONS
-### for code running on Matlab_2018a
+### for running code on Matlab_2018a or higher versions
 1.	Test_GUI_1.fig >> This is figure file containing data regarding the User interface. It is always execute when you run the main matlab file.
-2.	price_sort.m >>  func.  that sort whole car data inputted on the basis of the price of the car      owned by the user.
+2.	price_sort.m >>  func.  that sort whole car data inputted on the basis of the price of the car owned by the user.
 3.	engcmp.m >> func. compares the engine of two cars on the basis on different efficiencies (thermal, volumetric, engine.coff.performance) and returns an overall efficiency between 2 engines.
 4.	emical.m >> fucn. takes input as loan, rate and term and returns the emi calculated.
 5.	monthused.m >> this calculated the time difference in months between 2 different  dates.(basically calculating months for which the car has been used )
@@ -21,9 +21,11 @@ The main file to needed execute GUI is “Test_GUI_1.m” . On executing this co
 ### for stanalone application
 
 * Execute the MyAppInstaller_web setup on any windows OS.
-* The setup will automatically download Matlab runtime compiler for executing the application
+* The setup will automatically download Matlab runtime compiler for executing the application.
 * Instructions for the handling of application is same as described above.. 
 
 ## NOVELTY
 
-*
+The current apps like Mercedes me and Mercedes Adapter are available only for car maintenance and drive related operations and help. The platform and apps that we are suggesting will be totally different from what present in current scenario although they are most simplistic ones to execute. The app will keep a track about the current contract status of the customer and all the details regarding his financing option. As mentioned in implementation plan, output of step 3 would be presented in the app and customer would be able to make a choice out of them. Whereas the software with the company would incorporate the step 4 also and would present a date after which offer can be made. There do exist some online platforms that help in predicting EMIs but they rarely consider the details that we are considering. Even companies predicting upgradations do not consider financing details and predict on the basis of model details only.
+
+A Snapshot of GUI is Shown:
