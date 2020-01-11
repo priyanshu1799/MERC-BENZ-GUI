@@ -18,7 +18,7 @@ The main file to needed execute GUI is “Test_GUI_1.m” . On executing this co
 *	It automatically provides all the offer details of the 1st model including the expecting time from current after which this offer can be made.
 *	Then automatically program refinance the new model and presents new financial details (new emi, interest, total amount ) with a down-payment of 20% . 
 *	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.      
-### for stanalone application
+### for standalone application
 
 * Execute the MyAppInstaller_web setup on any windows OS.
 * The setup will automatically download Matlab runtime compiler for executing the application.
