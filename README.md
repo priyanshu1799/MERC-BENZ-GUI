@@ -1,7 +1,7 @@
 # MERC-BENZ-GUI
 This GUI is created in Mercedes Benz digital challenge-2019
 According to solution proposed from our side we have developed Graphical User Interface(GUI or UI) Using >>guide command in MATLAB 2018a(9.4). This UI so created can be compiled and converted into an Standalone application file which can run on any system with or without  MATLAB pre-installed on it.
-The main file to needed execute GUI is “Test_GUI_1.m” . On executing this code it calls various other functions already created in other matlab files within the same directory(**MR-BENZ-GUI/**) :
+The main file to needed execute GUI is  **Test_GUI_1.m** . On executing this code it calls various other functions already created in other matlab files within the same directory(**MR-BENZ-GUI/**) :
 ## INSTRUCTIONS
 ### for running code on Matlab_2018a or higher versions
 1.	Test_GUI_1.fig >> This is figure file containing data regarding the User interface. It is always execute when you run the main matlab file.
