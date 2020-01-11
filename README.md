@@ -1,8 +1,9 @@
 # MERC-BENZ-GUI
 This GUI is created in Mercedes Benz digital challenge-2019
 According to solution proposed from our side we have developed Graphical User Interface(GUI or UI) Using >>guide command in MATLAB 2018a(9.4). This UI so created can be compiled and converted into an Standalone application file which can run on any system with or without  MATLAB pre-installed on it.
-The main file to needed execute GUI is “Test_GUI_1.m” . On executing this code it calls various other functions already created in other matlab files within the same directory :
+The main file to needed execute GUI is “Test_GUI_1.m” . On executing this code it calls various other functions already created in other matlab files within the same directory(**MR-BENZ-GUI/**) :
 ## INSTRUCTIONS
+### for code running on Matlab_2018a
 1.	Test_GUI_1.fig >> This is figure file containing data regarding the User interface. It is always execute when you run the main matlab file.
 2.	price_sort.m >>  func.  that sort whole car data inputted on the basis of the price of the car      owned by the user.
 3.	engcmp.m >> func. compares the engine of two cars on the basis on different efficiencies (thermal, volumetric, engine.coff.performance) and returns an overall efficiency between 2 engines.
@@ -16,5 +17,13 @@ The main file to needed execute GUI is “Test_GUI_1.m” . On executing this co
 *	To find the upgrade model of the user>> click Upgrade Model button >> it compares the current user model with total models entered based on their engine efficiencies and returns top 3 models based on this comparison.
 *	It automatically provides all the offer details of the 1st model including the expecting time from current after which this offer can be made.
 *	Then automatically program refinance the new model and presents new financial details (new emi, interest, total amount ) with a down-payment of 20% . 
-*	Various other down-payment options are also provided to calculate emi for various down-payments.
 *	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.      
+### for stanalone application
+
+* Execute the MyAppInstaller_web setup on any windows OS.
+* The setup will automatically download Matlab runtime compiler for executing the application
+* Instructions for the handling of application is same as described above.. 
+
+## NOVELTY
+
+*
