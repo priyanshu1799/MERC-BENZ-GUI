@@ -21,6 +21,7 @@ The main file to needed execute GUI is  **Test_GUI_1.m** . On executing this cod
 
 ### for standalone application
 
+* if Matlab2018a is installed on desktop then just run BENZ/testing/ 
 * Execute the MyAppInstaller_web setup on any windows OS.
 * The setup will automatically download Matlab runtime compiler for executing the application.
 * Instructions for the handling of application is same as described above.. 
