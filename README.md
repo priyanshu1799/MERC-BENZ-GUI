@@ -31,4 +31,4 @@ The main file to needed execute GUI is  **Test_GUI_1.m** . On executing this cod
 The current apps like Mercedes me and Mercedes Adapter are available only for car maintenance and drive related operations and help. The platform and apps that we are suggesting will be totally different from what present in current scenario although they are most simplistic ones to execute. The app will keep a track about the current contract status of the customer and all the details regarding his financing option. As mentioned in implementation plan, output of step 3 would be presented in the app and customer would be able to make a choice out of them. Whereas the software with the company would incorporate the step 4 also and would present a date after which offer can be made. There do exist some online platforms that help in predicting EMIs but they rarely consider the details that we are considering. Even companies predicting upgradations do not consider financing details and predict on the basis of model details only.
 
 A Snapshot of GUI is Shown:
-![](image/Capture.PNG)
+![](image/image.PNG)
