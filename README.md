@@ -20,9 +20,9 @@ The main file to needed execute GUI is  **Test_GUI_1.m** . On executing this cod
 *	For User’s convenience an extra pop-up menu is also provided to select any car model from the top 3 ones and refinance it automatically.  
 
 ### for standalone application
-
-* if Matlab2018a is installed on desktop then just run BENZ/testing/ 
-* Execute the MyAppInstaller_web setup on any windows OS.
+* Pls read the **readme.txt** file in every folder
+* If Matlab2018a is installed on desktop then just run **BENZ/testing/BENZ_NexGEN_Recommendation.exe** from the above directory and run the program
+* If Matlab2018a run is not installed then run the **BENZ/for_redistribution/MyAppInstaller_web.exe** setup on any windows OS to download 
 * The setup will automatically download Matlab runtime compiler for executing the application.
 * Instructions for the handling of application is same as described above.. 
 
